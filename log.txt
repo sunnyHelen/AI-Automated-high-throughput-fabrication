@@ -1,0 +1,120 @@
+[INFO] === Dataset: 07-CCA ===
+[INFO] GT = E:\07-CCA\07-GT-0.mp4
+[INFO] found methods in 07-CCA: ['CLOT', 'Hailuo', 'Hunyuan', 'Kling', 'Seedance', 'Sora', 'Wan']
+[INFO]   eval 07-CCA / CLOT / 07-CLOT-0.mp4
+[INFO]   eval 07-CCA / CLOT / 07-CLOT-1.mp4
+[INFO]   eval 07-CCA / CLOT / 07-CLOT-2.mp4
+[INFO]   eval 07-CCA / CLOT / 07-CLOT-3.mp4
+[INFO]   eval 07-CCA / CLOT / 07-CLOT-4.mp4
+[INFO]   eval 07-CCA / Hailuo / 07-Hailuo-0.mp4
+[INFO]   eval 07-CCA / Hailuo / 07-Hailuo-1.mp4
+[INFO]   eval 07-CCA / Hailuo / 07-Hailuo-2.mp4
+[INFO]   eval 07-CCA / Hailuo / 07-Hailuo-3.mp4
+[INFO]   eval 07-CCA / Hailuo / 07-Hailuo-4.mp4
+[INFO]   eval 07-CCA / Hunyuan / 07-Hunyuan-0.mp4
+[INFO]   eval 07-CCA / Hunyuan / 07-Hunyuan-1.mp4
+[INFO]   eval 07-CCA / Hunyuan / 07-Hunyuan-2.mp4
+[INFO]   eval 07-CCA / Hunyuan / 07-Hunyuan-3.mp4
+[INFO]   eval 07-CCA / Hunyuan / 07-Hunyuan-4.mp4
+[INFO]   eval 07-CCA / Kling / 07-Kling-0.mp4
+[INFO]   eval 07-CCA / Kling / 07-Kling-1.mp4
+[INFO]   eval 07-CCA / Kling / 07-Kling-2.mp4
+[INFO]   eval 07-CCA / Kling / 07-Kling-3.mp4
+[INFO]   eval 07-CCA / Kling / 07-Kling-4.mp4
+[INFO]   eval 07-CCA / Seedance / 07-Seedance-0.mp4
+[INFO]   eval 07-CCA / Seedance / 07-Seedance-1.mp4
+[INFO]   eval 07-CCA / Seedance / 07-Seedance-2.mp4
+[INFO]   eval 07-CCA / Seedance / 07-Seedance-3.mp4
+[INFO]   eval 07-CCA / Seedance / 07-Seedance-4.mp4
+[INFO]   eval 07-CCA / Sora / 07-Sora-0.mp4
+[INFO]   eval 07-CCA / Sora / 07-Sora-1.mp4
+[INFO]   eval 07-CCA / Sora / 07-Sora-2.mp4
+[INFO]   eval 07-CCA / Sora / 07-Sora-3.mp4
+[INFO]   eval 07-CCA / Sora / 07-Sora-4.mp4
+[INFO]   eval 07-CCA / Wan / 07-Wan-0.mp4
+[INFO]   eval 07-CCA / Wan / 07-Wan-1.mp4
+[INFO]   eval 07-CCA / Wan / 07-Wan-2.mp4
+[INFO]   eval 07-CCA / Wan / 07-Wan-3.mp4
+[INFO]   eval 07-CCA / Wan / 07-Wan-4.mp4
+[OK] dataset-level csv written to eval_all_out\07-CCA_metrics.csv
+[INFO] === Dataset: 01-CCA ===
+[INFO] GT = E:\01-CCA\01-CCA-GT-0.mp4
+[INFO] found methods in 01-CCA: ['CLOT', 'Hailuo', 'Hunyuan', 'Kling', 'Seedance', 'Sora', 'Wan']
+[INFO]   eval 01-CCA / CLOT / 01-CCA-CLOT-0.mp4
+[INFO]   eval 01-CCA / CLOT / 01-CCA-CLOT-1.mp4
+[INFO]   eval 01-CCA / CLOT / 01-CCA-CLOT-2.mp4
+[INFO]   eval 01-CCA / CLOT / 01-CCA-CLOT-3.mp4
+[INFO]   eval 01-CCA / CLOT / 01-CCA-CLOT-4.mp4
+[INFO]   eval 01-CCA / Hailuo / 01-CCA-Hailuo-0.mp4
+[INFO]   eval 01-CCA / Hailuo / 01-CCA-Hailuo-1.mp4
+[INFO]   eval 01-CCA / Hailuo / 01-CCA-Hailuo-2.mp4
+[INFO]   eval 01-CCA / Hailuo / 01-CCA-Hailuo-3.mp4
+[INFO]   eval 01-CCA / Hailuo / 01-CCA-Hailuo-4.mp4
+[INFO]   eval 01-CCA / Hunyuan / 01-CCA-Hunyuan-0.mp4
+[INFO]   eval 01-CCA / Hunyuan / 01-CCA-Hunyuan-1.mp4
+[INFO]   eval 01-CCA / Hunyuan / 01-CCA-Hunyuan-2.mp4
+[INFO]   eval 01-CCA / Hunyuan / 01-CCA-Hunyuan-3.mp4
+[INFO]   eval 01-CCA / Hunyuan / 01-CCA-Hunyuan-4.mp4
+[INFO]   eval 01-CCA / Kling / 01-CCA-Kling-0.mp4
+[INFO]   eval 01-CCA / Kling / 01-CCA-Kling-1.mp4
+[INFO]   eval 01-CCA / Kling / 01-CCA-Kling-2.mp4
+[INFO]   eval 01-CCA / Kling / 01-CCA-Kling-3.mp4
+[INFO]   eval 01-CCA / Kling / 01-CCA-Kling-4.mp4
+[INFO]   eval 01-CCA / Seedance / 01-CCA-Seedance-0.mp4
+[INFO]   eval 01-CCA / Seedance / 01-CCA-Seedance-1.mp4
+[INFO]   eval 01-CCA / Seedance / 01-CCA-Seedance-2.mp4
+[INFO]   eval 01-CCA / Seedance / 01-CCA-Seedance-3.mp4
+[INFO]   eval 01-CCA / Seedance / 01-CCA-Seedance-4.mp4
+[INFO]   eval 01-CCA / Sora / 01-CCA-Sora-0.mp4
+[INFO]   eval 01-CCA / Sora / 01-CCA-Sora-1.mp4
+[INFO]   eval 01-CCA / Sora / 01-CCA-Sora-2.mp4
+[INFO]   eval 01-CCA / Sora / 01-CCA-Sora-3.mp4
+[INFO]   eval 01-CCA / Sora / 01-CCA-Sora-4.mp4
+[INFO]   eval 01-CCA / Wan / 01-CCA-Wan-0.mp4
+[INFO]   eval 01-CCA / Wan / 01-CCA-Wan-1.mp4
+[INFO]   eval 01-CCA / Wan / 01-CCA-Wan-2.mp4
+[INFO]   eval 01-CCA / Wan / 01-CCA-Wan-3.mp4
+[INFO]   eval 01-CCA / Wan / 01-CCA-Wan-4.mp4
+[OK] dataset-level csv written to eval_all_out\01-CCA_metrics.csv
+[INFO] === Dataset: 01-ICA ===
+[INFO] GT = E:\01-ICA\01-ICA-GT-0.mp4
+[INFO] found methods in 01-ICA: ['CLOT', 'Hailuo', 'Hunyuan', 'Kling', 'Seedance', 'Sora', 'Wan']
+[INFO]   eval 01-ICA / CLOT / 01-ICA-CLOT-0.mp4
+[INFO]   eval 01-ICA / CLOT / 01-ICA-CLOT-1.mp4
+[INFO]   eval 01-ICA / CLOT / 01-ICA-CLOT-2.mp4
+[INFO]   eval 01-ICA / CLOT / 01-ICA-CLOT-3.mp4
+[INFO]   eval 01-ICA / CLOT / 01-ICA-CLOT-4.mp4
+[INFO]   eval 01-ICA / Hailuo / 01-ICA-Hailuo-0.mp4
+[INFO]   eval 01-ICA / Hailuo / 01-ICA-Hailuo-1.mp4
+[INFO]   eval 01-ICA / Hailuo / 01-ICA-Hailuo-2.mp4
+[INFO]   eval 01-ICA / Hailuo / 01-ICA-Hailuo-3.mp4
+[INFO]   eval 01-ICA / Hailuo / 01-ICA-Hailuo-4.mp4
+[INFO]   eval 01-ICA / Hunyuan / 01-ICA-Hunyuan-0.mp4
+[INFO]   eval 01-ICA / Hunyuan / 01-ICA-Hunyuan-1.mp4
+[INFO]   eval 01-ICA / Hunyuan / 01-ICA-Hunyuan-2.mp4
+[INFO]   eval 01-ICA / Hunyuan / 01-ICA-Hunyuan-3.mp4
+[INFO]   eval 01-ICA / Hunyuan / 01-ICA-Hunyuan-4.mp4
+[INFO]   eval 01-ICA / Kling / 01-ICA-Kling-0.mp4
+[INFO]   eval 01-ICA / Kling / 01-ICA-Kling-1.mp4
+[INFO]   eval 01-ICA / Kling / 01-ICA-Kling-2.mp4
+[INFO]   eval 01-ICA / Kling / 01-ICA-Kling-3.mp4
+[INFO]   eval 01-ICA / Kling / 01-ICA-Kling-4.mp4
+[INFO]   eval 01-ICA / Seedance / 01-ICA-Seedance-0.mp4
+[INFO]   eval 01-ICA / Seedance / 01-ICA-Seedance-1.mp4
+[INFO]   eval 01-ICA / Seedance / 01-ICA-Seedance-2.mp4
+[INFO]   eval 01-ICA / Seedance / 01-ICA-Seedance-3.mp4
+[INFO]   eval 01-ICA / Seedance / 01-ICA-Seedance-4.mp4
+[INFO]   eval 01-ICA / Sora / 01-ICA-Sora-0.mp4
+[INFO]   eval 01-ICA / Sora / 01-ICA-Sora-1.mp4
+[INFO]   eval 01-ICA / Sora / 01-ICA-Sora-2.mp4
+[INFO]   eval 01-ICA / Sora / 01-ICA-Sora-3.mp4
+[INFO]   eval 01-ICA / Sora / 01-ICA-Sora-4.mp4
+[INFO]   eval 01-ICA / Wan / 01-ICA-Wan-0.mp4
+[INFO]   eval 01-ICA / Wan / 01-ICA-Wan-1.mp4
+[INFO]   eval 01-ICA / Wan / 01-ICA-Wan-2.mp4
+[INFO]   eval 01-ICA / Wan / 01-ICA-Wan-3.mp4
+[INFO]   eval 01-ICA / Wan / 01-ICA-Wan-4.mp4
+[OK] dataset-level csv written to eval_all_out\01-ICA_metrics.csv
+[OK] global average csv written to eval_all_out\ALL_datasets_method_avg_dl.csv
+
+Process finished with exit code 0
